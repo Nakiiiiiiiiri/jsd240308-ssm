@@ -4,7 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_04mybatis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_05mvcboot01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_05mvcboot02" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_40_1mybatis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/egmvc1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/egmybatis1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/egmybatis2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/egmybatisCu" vcs="Git" />
