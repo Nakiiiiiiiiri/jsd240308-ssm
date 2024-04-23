@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/egweibo1" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -13,6 +16,10 @@
         <option value="$PROJECT_DIR$/_05mvcboot01/pom.xml" />
         <option value="$PROJECT_DIR$/_05mvcboot02/pom.xml" />
         <option value="$PROJECT_DIR$/egmvc1/pom.xml" />
+        <option value="$PROJECT_DIR$/_05weibo/pom.xml" />
+        <option value="$PROJECT_DIR$/egweibo1/pom.xml" />
+        <option value="$PROJECT_DIR$/egweibo2/pom.xml" />
+        <option value="$PROJECT_DIR$/_05mvcboot03/pom.xml" />
       </list>
     </option>
   </component>
