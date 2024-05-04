@@ -3,11 +3,14 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_0428Practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_04mybatis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_05mvcboot01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_05mvcboot02" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_05mvcboot03" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_05weibo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_06interceptor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_07springaop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_40_1mybatis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/egmvc1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/egmybatis1" vcs="Git" />
